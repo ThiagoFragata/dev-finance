@@ -80,7 +80,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <a href="https://github.com/ThiagoFragata.png">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/ThiagoFragata.png" width="100px;" alt=""/>
  <br />
  <sub><b>Thiago Henrique Fragata</b></sub></a> <a href="https://app.rocketseat.com.br/me/thiago-fragata-6969" title="Thiago Henrique Fragata">🚀</a>
 
