@@ -1,6 +1,6 @@
 # Dev.finance$
 
-## Aplicação web de gerenciamento finaceiro para freelas (Devs, designers e social medias).
+## Aplicação web de gerenciamento finaceiro para Freelas (Dev, designer e social media).
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
@@ -15,38 +15,33 @@
 </p> -->
 
 <h4 align="center"> 
- 🚧 Aplicação em Desenvolvimento 🚧
+ 🚧 Aplicação finalizada 🚧
 </h4>
 
 ### Features
 
 - [x] design interface
 - [x] front-end/interface
-- [ ] front-end/funcionalidade
-- [ ] backend/funcional
+- [x] front-end/funcionalidades
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Antes de começar, você vai precisar ter instalado em sua máquina somente a seguinte ferramenta:
+[Git](https://git-scm.com). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/), com a extensão instalada (Live Server).
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o projeto
 
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/ThiagoFragata/comes&bebes.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd maratona-discovery
-
-# Instale as dependências
-$ npm install
+$ cd dev-finance-main
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm start
+$ Open with live server
 
-# O servidor inciará na porta:5500 - acesse <http://localhost:5500>
+# O servidor inciará na porta:5500 - abrirá automaticamente, se preferir acesse <http://localhost:5500>
 ```
 
 ## 🚀 Tecnologias
@@ -55,19 +50,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [html]
 - [css]
-
-<!-- - [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Handlebars](https://handlebarsjs.com/) -->
+- [javascript]
 
 ## 💻 Projeto
 
-O Dev.finance é uma aplicação de gerenciamento financeiro de jobs e carteira, desenvolvida na maratona discovery da rocketseat 💜
+O Dev.finance é uma aplicação de gerenciamento financeiro de jobs, desenvolvida na maratona discovery da rocketseat. 💜
 
-<!-- ## 🔖 Layout
+<!-- 
+## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/uGhU5twV20Wm4F8rmSZHKu/Comes-and-Bebes?node-id=0%3A1). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo. -->
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/uGhU5twV20Wm4F8rmSZHKu/Comes-and-Bebes?node-id=0%3A1). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo. 
+-->
 
 ## :memo: Licença
 
