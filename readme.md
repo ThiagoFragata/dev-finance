@@ -51,6 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [html]
 - [css]
+- [javascript]
 
 <!-- - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
