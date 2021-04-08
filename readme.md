@@ -43,7 +43,7 @@ $ cd maratona-discovery
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm start
+$ Open with Live server
 
 # O servidor inciará na porta:5500 - acesse <http://localhost:5500>
 ```
