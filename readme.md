@@ -15,7 +15,7 @@
 </p> -->
 
 <h4 align="center"> 
- 🚧 Aplicação finaliza 🚧
+ 🚧 Aplicação finalizada 🚧
 </h4>
 
 ### Features
