@@ -15,15 +15,14 @@
 </p> -->
 
 <h4 align="center"> 
- 🚧 Aplicação em Desenvolvimento 🚧
+ 🚧 Aplicação finaliza 🚧
 </h4>
 
 ### Features
 
 - [x] design interface
 - [x] front-end/interface
-- [ ] front-end/funcionalidade
-- [ ] backend/funcional
+- [x] front-end/funcionalidade
 
 ### Pré-requisitos
 
