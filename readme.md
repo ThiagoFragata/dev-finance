@@ -39,9 +39,6 @@ $ git clone <https://github.com/ThiagoFragata/comes&bebes.git>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd maratona-discovery
 
-# Instale as dependências
-$ npm install
-
 # Execute a aplicação em modo de desenvolvimento
 $ Open with Live server
 
